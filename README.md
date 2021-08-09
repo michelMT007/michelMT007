@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michelMT007
 - 👀 I’m interested in developerment systems WEB, mobile backend and frontend
 - 🌱 I’m currently learning .NET 5 C#, JS, PHP, React, Angular.
-- 💞️ I’m looking to collaborate on projects mobile and WEB clean archtecture.
+- 💞️ I’m looking to collaborate on projects mobile and WEB clean architecture.
 - 📫 How to reach me michelifmtads@gmail.com - cell phone +55 (65) 98422-9684
 
 <!---
